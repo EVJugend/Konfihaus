@@ -1069,6 +1069,19 @@
          "tilecount":108,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":15,
+         "firstgid":429,
+         "image":"table.png",
+         "imageheight":482,
+         "imagewidth":500,
+         "margin":0,
+         "name":"table",
+         "spacing":0,
+         "tilecount":225,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
