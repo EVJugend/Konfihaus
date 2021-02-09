@@ -51,6 +51,12 @@
          "id":15,
          "name":"Workshop 2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/3979302573\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -63,6 +69,12 @@
          "id":16,
          "name":"Workshop 3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/6769102815\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -75,6 +87,12 @@
          "id":17,
          "name":"Workshop 4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/8814602990\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -87,6 +105,12 @@
          "id":18,
          "name":"Workshop 5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/8890910006\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -99,6 +123,12 @@
          "id":19,
          "name":"Workshop 6",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/4232860930\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -111,6 +141,12 @@
          "id":20,
          "name":"Workshop 7",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/4536055444\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -123,6 +159,12 @@
          "id":21,
          "name":"Workshop 8",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/8599665557\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -135,6 +177,12 @@
          "id":22,
          "name":"Workshop 9",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/7992869526\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -147,6 +195,12 @@
          "id":23,
          "name":"Workshop 10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/7564271307\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -159,6 +213,12 @@
          "id":24,
          "name":"Workshop 11",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/6237437128\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -171,6 +231,12 @@
          "id":25,
          "name":"Workshop 12",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/8390617633\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -183,6 +249,12 @@
          "id":26,
          "name":"Workshop 13",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/3119191151\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -195,6 +267,12 @@
          "id":27,
          "name":"Workshop 14",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/8363605893\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -207,6 +285,12 @@
          "id":28,
          "name":"Workshop 15",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/8580090099\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -219,6 +303,12 @@
          "id":29,
          "name":"Workshop 16",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/5502328001\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -231,6 +321,12 @@
          "id":30,
          "name":"Workshop 17",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/3705453518\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
